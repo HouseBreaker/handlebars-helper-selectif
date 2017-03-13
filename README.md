@@ -28,7 +28,7 @@ app.set("view engine", "hbs")
 In your Handlebars template:
 
 ```hbs
-{{selectif option value }}
+{{ selectif option value }}
 ```
 
 ## Tests
