@@ -1,6 +1,6 @@
 {
   "name": "handlebars-helper-selectif",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A Handlebars helper for selecting an option in a dropdown input field, based on an equality check",
   "main": "index.js",
   "repository": {
